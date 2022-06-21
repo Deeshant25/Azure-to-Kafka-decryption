@@ -1,5 +1,4 @@
-# Integration2
-An app to download an encrypted file from Azure Blob Storage, decrypt it and write its contents to a file
+An app to download an encrypted file from Azure Blob Storage, decrypt it and write its contents to a file. The Azure emulator is used for the Blob Storage data source, and is run using Azurite.
 
 Steps to run:
 
