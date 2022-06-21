@@ -1,5 +1,5 @@
 # Integration2
-An app to download a PGP encrypted file from Azure Blob Storage, decrypt it and write its contents to a file
+An app to download an encrypted file from Azure Blob Storage, decrypt it and write its contents to a file
 
 Steps to run:
 
