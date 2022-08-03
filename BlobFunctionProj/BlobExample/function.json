@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "blobClient",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "files",
+      "connection": "AzureWebJobsStorage"
+    }
+  ]
+}
